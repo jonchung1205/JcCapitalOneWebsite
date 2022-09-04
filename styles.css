@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+*{
+    margin: 0; 
+    padding: 0; 
+
+}
+body{
+    font-family: "Shadows Into Light", sans-serif;
+    text-align: center; 
+}
+.wrapper{
+    width: 90%; 
+    margin: 0 auto; 
+}
 .banner{
     height: 100%;
     background-color: aqua;

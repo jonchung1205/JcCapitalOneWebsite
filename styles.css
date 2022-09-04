@@ -13,10 +13,12 @@ body{
     width: 90%; 
     margin: 0 auto; 
 }
-.banner{
-    height: 100%;
-    background-color: aqua;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    text-align: center;
+.banner- area{
+    background-image: url(pics/PlaneWing.jpg);
+    background-size: cover; 
+    background-position: center center;
+    top: 100px; 
+    height: 100vh;
+    width: 100px; 
+    position: fixed; 
 }

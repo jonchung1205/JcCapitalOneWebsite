@@ -22,3 +22,22 @@ body{
     width: 100px; 
     position: fixed; 
 }
+.content- area{
+    width: 100%; 
+    height: 800px; 
+    position: relative;
+    background: white; 
+    top: 550px;  
+}
+.content- area h2{
+    font-size: 40px; 
+    margin: 0; 
+    padding-top: 30px; 
+    letter-spacing: 4px; 
+}
+.content- area p{
+    padding: 2% 0; 
+    line-height: 30px; 
+    text-align: justify; 
+
+}
